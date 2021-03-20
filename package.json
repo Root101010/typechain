@@ -5,14 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/Root101010/typechain",
   "author": "Root101010 <root101010@hanmail.net>",
-<<<<<<< HEAD
   "license": "MIT",
   "scripts": {
     "start": "node index.js",
     "prestart": "tsc"
   }
 }
-=======
-  "license": "MIT"
-}
->>>>>>> 201bd67cbe5821cbf3913fd777acc4f37f22b242
